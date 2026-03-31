@@ -1,5 +1,7 @@
 # Machine Learning for Materials Science - MAT SCI 298 - UCLA, Spring 2026
 
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dskoda/ml4mat-26s-public/)
+
 ## Overview
 
 This repository contains Jupyter notebooks for the lecture notes of MAT SCI 298, a course in Machine Learning for Materials Science at UCLA (Spring 2026).
@@ -37,14 +39,18 @@ Now, you can see the lectures by opening a Jupyter session:
 jupyter notebook
 ```
 
-Make sure you select the right kernel under Kernel > Change Kernel > ml4mat once you open the notebook!
+Make sure you select the right kernel under `Kernel > Change Kernel > ml4mat` once you open the notebook!
 
 ### Using in the classroom
 
+You can open the notebook directly on Google Colab:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dskoda/ml4mat-26s-public/)
+
+You can copy the notebook to your own Google Drive and make modifications directly.
 
 ## License
 
 Code in this repository is licensed under the MIT license.
 Lecture content (e.g., Jupyter Notebook/slides) is licensed under CC BY-NC 4.0.
-Datasets included in this repository are subject to their own licenses as described in DATA_LICENSE.md.
+Datasets included in this repository are subject to their own licenses as described in `DATA_LICENSE.md`.
