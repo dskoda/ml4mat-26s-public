@@ -1,14 +1,14 @@
-# Machine Learning for Materials Science - MAT SCI 298 - UCLA, Winter 2025
+# Machine Learning for Materials Science - MAT SCI 298 - UCLA, Spring 2026
 
 ## Overview
 
-This repository contains Jupyter notebooks for the lecture notes of MAT SCI 298, a course in Machine Learning for Materials Science at UCLA (Winter 2025).
+This repository contains Jupyter notebooks for the lecture notes of MAT SCI 298, a course in Machine Learning for Materials Science at UCLA (Spring 2026).
 The course covers various machine learning techniques and their applications in the field of materials science.
 
 ## Contents
 
-- Lecture Notes: Jupyter notebooks for each lecture.
-- Datasets: a few datasets that will be used throughout the lectures.
+- Lectures: Jupyter notebooks for each lecture, some of which are used as labs
+- `ml4mat_ucla`: scripts and helper tools to make usage of the folder easier
 
 ## Usage
 
@@ -37,7 +37,8 @@ jupyter notebook
 
 Make sure you select the right kernel under Kernel > Change Kernel > ml4mat once you open the notebook!
 
-## Notice
+## License
 
-The code is not public yet - this repository is for use of MAT SCI 298 students only.
-Distribution of the data or code is prohibited until the repository is made public.
+Code in this repository is licensed under the MIT license.
+Lecture content (e.g., Jupyter Notebook/slides) is licensed under CC BY-NC 4.0.
+Datasets included in this repository are subject to their own licenses as described in DATA_LICENSE.md.
