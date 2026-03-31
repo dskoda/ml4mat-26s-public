@@ -12,6 +12,8 @@ The course covers various machine learning techniques and their applications in 
 
 ## Usage
 
+### Local notebooks
+
 To get started, clone this repository and open the Jupyter notebooks in your preferred environment.
 Ensure you have all the necessary dependencies installed.
 If you use Anaconda, you can `cd` to the local repository and install the environment by doing the following:
