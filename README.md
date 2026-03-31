@@ -37,6 +37,10 @@ jupyter notebook
 
 Make sure you select the right kernel under Kernel > Change Kernel > ml4mat once you open the notebook!
 
+### Using in the classroom
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dskoda/ml4mat-26s-public/)
+
 ## License
 
 Code in this repository is licensed under the MIT license.
