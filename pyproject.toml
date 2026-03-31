@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ml4mat_ucla"
+version = "26.03.31"
+description = "Jupyter Notebooks and slides for a class in machine learning for materials science"
+authors = [{name = "Daniel Schwalbe-Koda", email = "dskoda@ucla.edu"}]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+keywords = ["workflow", "materials-science"]
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "numpy",
+    "scipy",
+    "seaborn",
+    "notebook<7",
+    "jupyter",
+    "ipykernel",
+    "rise",
+    "ase",
+    "pymatgen",
+    "rdkit",
+    "dscribe",
+    "umap-learn",
+    "torch",
+    "torchvision",
+    "pytorch-lightning",
+    "xgboost",
+    "plotly",
+    "rdkit",
+    "matminer",
+]
+
+[project.urls]
+Homepage = "https://github.com/dskoda/ml4mat-26s-public"
+
+[tool.setuptools]
+packages = ["ml4mat_ucla"]
