@@ -11,5 +11,8 @@ These datasets are used in data visualization and machine learning in the book. 
 
 ## Lecture 02
 
-- [ABO3 perovskites](02-Datasets/perovskites.csv) - A. Emery and C. Wolverton. Sci. Data 4, 170153 (2017).
+- [ABO3 perovskites](02-Datasets/perovskites.csv) - A. Emery and C. Wolverton. [Sci. Data 4, 170153 (2017)](https://doi.org/10.1038/sdata.2017.153). Released under the CC BY 4.0 license.
+
+## Lecture 03
+
 - [Solubility](03-Features/data/solubility.csv) - Sorkun, M.C., Khetan, A. & Er, S. AqSolDB, a curated reference set of aqueous solubility and 2D descriptors for a diverse set of compounds. Sci Data 6, 143 (2019). <https://doi.org/10.1038/s41597-019-0151-1>
