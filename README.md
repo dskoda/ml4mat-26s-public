@@ -53,4 +53,4 @@ You can copy the notebook to your own Google Drive and make modifications direct
 
 - Code in this repository is licensed under the [MIT license](LICENSE).
 - Lecture content (e.g., Jupyter Notebook/slides) is licensed under [CC BY-NC 4.0](LICENSE-CC.md).
-- Datasets included in this repository are subject to their own licenses as described in `DATA_LICENSE.md`.
+- Datasets included in this repository are subject to their own licenses as described in `lectures/README.md`.
