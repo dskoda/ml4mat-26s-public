@@ -18,3 +18,7 @@ These datasets are used in data visualization and machine learning in the book. 
 ## Lecture 04
 
 - [AqSolDB](03-Features/data/solubility.csv) - Sorkun, M.C., Khetan, A. & Er, S. AqSolDB, a curated reference set of aqueous solubility and 2D descriptors for a diverse set of compounds. Sci Data 6, 143 (2019). <https://doi.org/10.1038/s41597-019-0151-1>
+
+## Lecture 11 (08-NeuralNetworks)
+
+- [superconductivity2018](08-NeuralNetworks/data/superconductivity2018.csv) - Stanev, Valentin, and Oses, Corey, and Kusne, A. Gilad, and Rodriguez, Efrain, and Paglione, Johnpierre, and Curtarolo, Stefano, and Takeuchi, Ichiro. "Machine learning modeling of superconducting critical temperature." Materials Data Facility, 2022, DOI: 10.18126/xlfr-hjrn. Released under the CC-BY 4.0
